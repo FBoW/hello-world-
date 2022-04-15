@@ -1,2 +1,2 @@
 # hello-world-
-let‘s start it
+get it started
